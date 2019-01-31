@@ -1,2 +1,2 @@
 # Reditt_ML
-ML Class Work
+Machine learning class assignments
